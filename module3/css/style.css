@@ -1,0 +1,28 @@
+/* Base Styles */
+
+
+body{
+  background-color: lightblue;
+  font-family: Segoe UI;
+  font-size: 11pt;
+}
+
+h1{
+  color: red;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+}
+
+.box{
+  background-color: lightyellow;
+  border: 1px solid black;
+  padding: 0px;
+  overflow: auto;
+  margin: 5px;
+}
+
+p{
+  padding: 10px;
+}
+
