@@ -36,7 +36,7 @@ p{
 
 #chicken{
   background-color: magenta;
-  margin-left: 80%;
+  margin-left: 70%;
   text-align: center;
   border: 1px solid black;
   font-size: 125%;
@@ -45,7 +45,7 @@ p{
 }
 #beef{
   background-color: red;
-  margin-left: 80%;
+  margin-left: 70%;
   text-align: center;
   border: 1px solid black;
   font-size: 125%;
@@ -53,7 +53,7 @@ p{
 }
 #sushi{
   background-color: yellow;
-  margin-left: 80%;
+  margin-left: 70%;
   text-align: center;
   border: 1px solid black;
   font-size: 125%;
